@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Xiamen University Malaysia Campus, 2026
+* B.S. in Computer Science, Xiamen University Malaysia Campus, 2026(expected)
 
 Work experience
 ======
 * Spring 2024: Remote Research intern
   * University of North Carolina at Charlotte
-  * Supervisor: [Dr. Hongfei Xue](https://havocfixer.github.io/)
+  * Adivsor: [Dr. Hongfei Xue](https://havocfixer.github.io/)
   
 Skills
 ======
