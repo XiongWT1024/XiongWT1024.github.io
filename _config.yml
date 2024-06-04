@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Xiamen University Malaysia"
-  uri              : # URL
+  employer         : "Xiamen University Malaysia Campus"
+  uri              : https://www.xmu.edu.my/
   email            : "xwt021024@gmail.com" 
 
   # Academic websites
